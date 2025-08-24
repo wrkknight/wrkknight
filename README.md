@@ -21,3 +21,5 @@
 <p align="center">хорошего дня!
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycjd3Yzk0Y29sMXIxdmNmbzZya2FuczA2MTh2b2ZjMXlrc3Ixdmx4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Of4zJf0WT7gOSlzUQ3/giphy.gif" width="400"/>
+  
+![](https://komarev.com/ghpvc/?username=wrkknight&style=for-the-badge)
